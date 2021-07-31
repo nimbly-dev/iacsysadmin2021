@@ -1,0 +1,25 @@
+a. What is your full name? Altheo Saquilayan
+b. What command do you use to view all files inside a present working directory? ls
+c. What distro and version of said distro are you using? Ubuntu 18.04
+d. How many free space in storage does your Linux VM currently have? 1.61GB
+e. What command do you use to install applications over a remote repository in Debian-based OS? sudo apt-get install ["application_name"]
+f. What kernel version are you using right now? 4.15.0-151-generic
+g. What is the octal equivalent of the "-rw-r--r-x" permission? chmod 645
+h. What is the UID of the "root" user? 1000
+i. What command do I use to download a copy of a Git repository into my present working directory? git clone
+j. Append in this file a list of at least 10 system users (not regular) your Linux VM currently has. Complete with their group ID, user ID, Full Name (if available), home folder and shell app location.
+
+    1.  nimbly2:x:1001:1001:,1,9:/home/nimbly2:/bin/bash
+    2.  nimbly3:x:1002:1002:password:/home/nimbly3:/bin/bash
+    3.  nimbly4:x:1003:1003:nimbiyan:/home/nimbly4:/bin/bash
+    4.  nimbly5:x:1004:1004:nimbiad:/home/nimbly5:/bin/bash
+    5.  nimbly6:x:1004:1004:nimbiyasad:/home/nimbly6:/bin/bash
+    6.  nimbly7:x:1004:1007:nimbiysad:/home/nimbly7:/bin/bash
+    7.  nimbly:x:1000:1000:Altheo Saquilayan:/home/nimbly:/bin/bash
+    8.  root:x:0:0:root:/root:/bin/bash
+    9.  daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/n0login
+    10. bin:x:2:2:bin:/bin:/usr/sbin/nologin
+
+k. Append your SSH public key
+
+    
